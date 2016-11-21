@@ -1,0 +1,11 @@
+{
+  "name": "welder_website",
+  "version": "0.0.1",
+  "description": "display the UI for the welder",
+  "main": "welderDisplay.js",
+  "scripts": {
+    "test": "npm start welderDisplay.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
