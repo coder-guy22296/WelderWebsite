@@ -2,3 +2,4 @@
 .vagrant/machines/default/virtualbox/creator_uid
 .vagrant/machines/default/virtualbox/id
 .vagrant/*
+sever/node_modules/
